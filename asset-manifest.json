@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/eiren7/Pizza-Menu/static/css/main.e2bb0e85.css",
-    "main.js": "/eiren7/Pizza-Menu/static/js/main.ece20810.js",
-    "index.html": "/eiren7/Pizza-Menu/index.html",
-    "main.e2bb0e85.css.map": "/eiren7/Pizza-Menu/static/css/main.e2bb0e85.css.map",
-    "main.ece20810.js.map": "/eiren7/Pizza-Menu/static/js/main.ece20810.js.map"
+    "main.css": "/Pizza-Menu/static/css/main.e2bb0e85.css",
+    "main.js": "/Pizza-Menu/static/js/main.ece20810.js",
+    "index.html": "/Pizza-Menu/index.html",
+    "main.e2bb0e85.css.map": "/Pizza-Menu/static/css/main.e2bb0e85.css.map",
+    "main.ece20810.js.map": "/Pizza-Menu/static/js/main.ece20810.js.map"
   },
   "entrypoints": [
     "static/css/main.e2bb0e85.css",
